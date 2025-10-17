@@ -35,6 +35,9 @@ I’m open to collaboration, innovation, and building meaningful products.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saeed-ighanian-757246345/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:saeedighanian.job@gmail.com)  
+[![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=flat&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/saeedi83)
+[![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~015fe61bb316defcce)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white)](https://www.fiverr.com/saeed_ighanian)
 
 ---
 
